@@ -31,6 +31,13 @@ java -cp ./Acme.jar:./objectdraw.jar:. SnakeController 500 500 100
 
 Example run demonstration.
 
+<img width="674" alt="screen shot 2019-01-18 at 9 56 10 am" src="https://user-images.githubusercontent.com/32502126/51405426-27edd900-1b0b-11e9-8672-919a42181f0f.png">
+
+<img width="674" alt="screen shot 2019-01-18 at 9 59 00 am" src="https://user-images.githubusercontent.com/32502126/51405434-2f14e700-1b0b-11e9-9ed4-0e09341c7d3c.png">
+
+<img width="674" alt="screen shot 2019-01-18 at 10 01 02 am" src="https://user-images.githubusercontent.com/32502126/51405441-33410480-1b0b-11e9-8b49-82b24ff87775.png">
+
+<img width="674" alt="screen shot 2019-01-18 at 10 08 23 am" src="https://user-images.githubusercontent.com/32502126/51405448-376d2200-1b0b-11e9-84d4-477008edf3af.png">
 
 ## Authors
 
