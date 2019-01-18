@@ -11,13 +11,15 @@ Install the latest version of java. Have all of these files in one folder.
 
 ## Running the tests
 
-Compile the java program
+Compile the java program using the follwing command:
 
 ```
 javac -cp ./Acme.jar:./objectdraw.jar:. *.java
 ```
 
-Run java program. Pass in 3 integer parameters; length, width and speed. Length and width is for the dimensions of the game field. Speed parameter is for the speed of the Snake object. Suggested parameters: 500, 500, 100.
+Pass in 3 integer parameters; width, length and delay. Length and width is for the dimensions of the game field. Speed parameter is for the speed of the Snake object. Suggested parameters: 500, 500, 100.
+
+Run the java program using the following command:
 
 ```
 java -cp ./Acme.jar:./objectdraw.jar:. SnakeController [LENGTH] [WIDTH] [SPEED]
