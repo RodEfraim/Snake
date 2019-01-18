@@ -7,7 +7,7 @@ The Snake object is made up of SnakeSegment objects. The Snake object has primar
 
 ### Prerequisites
 
-Install the latest version of java.
+Install the latest version of java. Have all of these files in one folder.
 
 ## Running the tests
 
@@ -17,7 +17,7 @@ Compile the java program
 javac -cp ./Acme.jar:./objectdraw.jar:. *.java
 ```
 
-Run java program. 
+Run java program. Pass in 3 integer parameters; length, width and speed. Length and width is for the dimensions of the game field. Speed parameter is for the speed of the Snake object. Suggested parameters: 500, 500, 100.
 
 ```
 java -cp ./Acme.jar:./objectdraw.jar:. SnakeController [LENGTH] [WIDTH] [SPEED]
@@ -27,7 +27,7 @@ java -cp ./Acme.jar:./objectdraw.jar:. SnakeController 500 500 100
 
 ### Example Run
 
-Example run demonstration of player 'X' winning.
+Example run demonstration.
 
 
 ## Authors
