@@ -41,4 +41,4 @@ Example run demonstration.
 
 ## Authors
 
-* **Rodrigo Efraim** - *Initial work* - [RodEfraim](https://github.com/RodEfraim)
+* **Rodrigo Efraim** - *Work* - [RodEfraim](https://github.com/RodEfraim)
