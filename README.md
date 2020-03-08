@@ -11,7 +11,7 @@ Install the latest version of java. Have all of these files in one folder.
 
 ## Running the tests
 
-Compile the java program using the follwing command:
+Compile the java program using the following command:
 
 ```
 javac -cp ./Acme.jar:./objectdraw.jar:. *.java
